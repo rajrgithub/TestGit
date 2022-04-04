@@ -7,6 +7,7 @@ public class TestApp {
 			System.out.println("Application is working");
 		
 		System.out.println("Edited from github is working");
+		System.out.println("Test Auto Update");
 	}
 
 }
